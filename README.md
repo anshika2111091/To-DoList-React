@@ -14,6 +14,8 @@ Navigate to the project directory: cd react-todo-list
 Install dependencies by running: npm install
 Start the development server: npm start
 Open http://localhost:3000 to view it in your browser.
+
+
 Technologies Used
 React.js: A JavaScript library for building user interfaces.
 HTML/CSS: For structuring and styling the application.
@@ -21,6 +23,10 @@ npm: Node package manager for installing project dependencies.
 create-react-app: A tool to bootstrap React applications quickly.
 Contributing
 Contributions are welcome! If you have any ideas for new features, find a bug, or want to contribute in any other way, feel free to open an issue or submit a pull request.
+
+
+Project Link
+The live version of this project is available https://to-dolist-react-qvt0.onrender.com
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
